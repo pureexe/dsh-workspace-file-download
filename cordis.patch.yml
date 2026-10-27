@@ -1,0 +1,3 @@
+- insert:
+    - id: dsh-workspace-file-download
+      name: '@local/dsh-workspace-file-download'

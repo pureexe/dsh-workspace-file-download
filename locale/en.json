@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Workspace File Download",
+    "description": "Adds a download button to the file preview toolbar and to the unpreviewable-file state, saving the open workspace file to your computer."
+  }
+}
